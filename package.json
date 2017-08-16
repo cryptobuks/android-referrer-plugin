@@ -1,0 +1,19 @@
+{
+  "name": "android-referrer-plugin",
+  "version": "1.0.0",
+  "description": "android-referrer-plugin =======================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-control-group/android-referrer-plugin.git"
+  },
+  "author": "the-control-group <adam@thecontrolgroup.com> (http://thecontrolgroup.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-control-group/android-referrer-plugin/issues"
+  },
+  "homepage": "https://github.com/the-control-group/android-referrer-plugin#readme"
+}
